@@ -1,7 +1,7 @@
 //import stuff here!
 import java.util.Scanner;
 
-public class Program{
+public class Program6{
     public static void main(String[] args){
         
         //declare variables and create scanner
